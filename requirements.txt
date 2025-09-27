@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+sqlalchemy
+cachetools
+python-multipart
